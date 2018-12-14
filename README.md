@@ -98,6 +98,7 @@ Pull Requests, bug reports and feature requests are more than welcome! <br/>
 ### Running it locally
 
 - `git clone git@github.com:devhubapp/devhub.git`
+- `cd devhub`
 - `yarn`
 - `yarn dev`
 
